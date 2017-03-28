@@ -1,0 +1,210 @@
+html,body {
+	width:100%;
+	height:100%;
+}
+
+html {
+	display:table;
+}
+
+body {
+	display:table-cell;
+	vertical-align: middle;
+	text-align: center;
+	background: #040325;
+	background: linear-gradient(top, #040325 0%, #210ade 100%);
+	background: -moz-linear-gradient(top, #040325 0%, #210ade 100%);
+	background: -o-linear-gradient(top, #040325 0%, #210ade 100%);
+	background: -ms-linear-gradient(top, #040325 0%, #210ade 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#040325), color-stop(100%,#210ade));
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#040325), to(#210ade));
+	background: -webkit-linear-gradient(top, #040325 0%, #210ade 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#040325', endColorstr='#210ade');
+}
+
+a {
+	text-decoration: none;
+}
+
+#conter {
+	display:block;
+	width:860px;
+	height:538px;
+	margin: 0 auto;
+}
+
+
+
+#pozitiv {
+	display:block;
+	width:660px;
+	height:24px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	box-shadow:inset 4px 4px 12px #5f5f5f,inset -4px -4px 6px #1d1100,2px 2px 4px #918c75;
+	color:#fde68e;
+	text-shadow: 2px 2px 3px #918c75;
+	padding: 2px 0 0;
+}
+
+#end {
+	display:block;
+	width:660px;
+	height:24px;
+	background: url("backs.png"/*tpa=http://n196.ru/images/backs.png*/);
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	color:#d2cddd;
+	text-shadow: 2px 2px 3px #918c75;
+}
+
+.glass::-moz-focus-inner{border:0;}
+.glass {
+	cursor: pointer; cursor: hand;
+	color: #0a044f;
+	line-height: 32px;
+	border: 1px solid #999999;
+	text-align: center;
+	width: 200px;
+	text-shadow: 1px 2px 2px #fbfbfb;
+	border-radius:16px;
+	background:transparent;
+	background-image: -webkit-linear-gradient(#ababab, #efefef);
+	background-image: -moz-linear-gradient(#ababab, #efefef);
+	background-image: -o-linear-gradient(#ababab, #efefef);
+	-moz-box-shadow: inset 0px -2px 0 #f7f7f7;
+	-webkit-box-shadow: inset 0px -2px 0 #f7f7f7;
+	-o-box-shadow: inset 0px -2px 0 #f7f7f7;
+	box-shadow: inset 0px -2px 0 #f7f7f7;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 0px;
+}
+.glass:before {
+	content: ".";
+	color:transparent;
+	line-height: 16px;
+	margin: 0px 5px -17px 5px;
+	background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.2));
+	background-image: -moz-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.2));
+	background-image: -o-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.2));
+	border-radius:16px; 
+	display:block;
+}
+
+.glass:active {
+	-moz-box-shadow: inset -1px -1px 3px #cccccc, inset 1px 1px 3px #dddddd ;
+	box-shadow: inset -1px -1px 3px #cccccc, inset 1px 1px 3px #dddddd;text-shadow: none;}
+
+.glass:active:before {line-height: 14px; margin: 2px 5px -17px 5px;}
+
+.glass:focus {outline: none;}
+
+a.glass {display: block;}
+
+.wincase {
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 0;
+    cursor: default;
+    left: 0;
+    opacity: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+    z-index: 11;
+    -webkit-transition: opacity .5s;
+    -moz-transition: opacity .5s;
+    -ms-transition: opacity .5s;
+    -o-transition: opacity .5s;
+    transition: opacity .5s;
+}
+.wincase:target {
+    visibility: visible;
+    opacity: 1;
+}
+
+.modal {
+    background-color: #fff;
+    border: 3px solid #fff;
+    display: inline-block;
+    left: 50%;
+    opacity: 0;
+    padding: 10px;
+    position: fixed;
+    text-align: justify;
+    font: 14px Helvetica, Arial, Sans-Serif;
+    top: 40%;
+    visibility: hidden;
+    z-index: 100;
+ 
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+ 
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+ 
+    -webkit-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    -moz-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    -ms-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    -o-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+ 
+    -webkit-transition: opacity .5s, top .5s;
+    -moz-transition: opacity .5s, top .5s;
+    -ms-transition: opacity .5s, top .5s;
+    -o-transition: opacity .5s, top .5s;
+    transition: opacity .5s, top .5s;
+}
+
+.wincase:target+.modal {
+    top: 50%;
+    opacity: 1;
+    visibility: visible;
+}
+
+.close {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 2px solid #ccc;
+    height: 24px;
+    line-height: 24px;
+    position: absolute;
+    right: -13px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    top: -15px;
+    width: 24px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+     border-radius: 15px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+    box-shadow: 1px 1px 3px #000;
+}
+.close:before {
+    color: rgba(255, 255, 255, 0.9);
+    content: "X";
+    font-size: 14px;
+    text-shadow: 0 -1px rgba(0, 0, 0, 0.9);
+}
+.close:hover {
+    background-color: rgba(64, 128, 128, 0.8);
+}
+.modal p, .modal div {
+    margin-bottom: 10px;
+}

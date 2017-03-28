@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>n196.ru - CyberSecurity безопасность при выше всего + сайт для софта By Regionet</title>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+<meta name="description" content="N196.ru - Бесплатный и Персональный хостинг" />
+<meta name="keywords" content="Web, hosting, website, free web-hosting, php, mysql">
+  <link rel="stylesheet" href="css?family=Roboto:700,400&subset=cyrillic,latin,greek,vietnamese" tppabs="https://fonts.googleapis.com/css?family=Roboto:700,400&subset=cyrillic,latin,greek,vietnamese">
+  <link rel="stylesheet" href="http://bombnet.ru/assets/bootstrap/css/bootstrap.min.css" tppabs="http://bombnet.ru/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://bombnet.ru/assets/animate.css/animate.min.css" tppabs="http://bombnet.ru/assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="http://bombnet.ru/assets/mobirise/css/style.css" tppabs="http://bombnet.ru/assets/mobirise/css/style.css">
+  <link rel="stylesheet" href="http://bombnet.ru/assets/mobirise/css/mbr-additional.css" tppabs="http://bombnet.ru/assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+
+<script type="text/javascript">var CHelp;(function(){var d=document,s=d.createElement("script"),c=d.getElementsByTagName("script"),a=c[c.length-1],h=d.location.protocol;s.src="ch-base.js"/*tpa=http://cdn.chathelp.ru/js.min/ch-base.js*/;s.type="text/javascript";s.async=1;a.parentNode.insertBefore(s,a); s.onload = function(){var siteId = "5545da7ea224cc7a2db09e9a";CHelp = new ChatHelpJS(siteId);}})()</script>
+</head>
+<body>
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2398363", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="counter2-id=2398363;js=na.gif" tppabs="http://top-fwz1.mail.ru/counter?id=2398363;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+	<div id="conter" align="center">
+
+	<div id="conter" align="center">
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1ab16/7qKF5wbFPZg.jpg"</center></a><br></br>
+		<a href="#feedback"><div id="pozitiv">N196.ru - Бесплатный и Персональный хостинг все системы и проекты использованы на Debian операционной системы линукса - https://www.debian.org </div></a>
+		<img src="https://pp.vk.me/c636920/v636920597/2313a/8naPxIPLMyw.jpg" tppabs="https://pp.vk.me/c636920/v636920597/2313a/8naPxIPLMyw.jpg"><br />
+<center>Наши группы в ВК</center>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aafa/1QiyAw40FO8.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c638322/v638322405/3ddf/Rk8e_sub8Y4.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/freecyberspace">By Kiborg Artur и другие его проекты</a></br><br></center>
+<a><center><img src="https://pp.vk.me/c636826/v636826677/22c2f/H1rtCNbXXhI.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/regionetltd">Regionet LTD IT лучше чем маил.ру</a></br><br></center>
+<a><center><img src="https://pp.vk.me/c636719/v636719677/2ddb/IL7R0deIXNg.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/siteproductionfree">Soft продукты и сайты By Regionet</a></br><br></center>
+<a><center><img src="https://pp.vk.me/c636723/v636723677/2f713/ENrQ2ZXTt-w.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/vkregionet">Вк софт и баги By Regionet</a></br><br></center>
+<a><center><img src="https://pp.vk.me/c636826/v636826677/22be4/ITAGpv6dc_Q.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/myruchannel">Myruchannel cloudlinux by Regionet</a></br><br></center>
+<a><center><img src="https://pp.vk.me/c837539/v837539677/a76b/x5PBNnokWpo.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/regionetdev3">Regionet Soft Сайт на вордпресс и проекты</a></br><br></center>
+<a><center><img src="https://pp.vk.me/c622729/v622729677/5056d/DpsUX7kZw6s.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/regionet_software">Regionet Software продажа софта!</a></br><br></center>
+<a><center><img src="https://pp.vk.me/c837223/v837223677/12332/_RLYcVbw_h8.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/regionetprogramming">Обучаемся программированию начальный курс от Regionet</a></br><br></center>
+<center>Здесь можете скачать программы, а проект очень хороший в сфере безопасности и помощи! мы подберем вам любой антивирус или поможем защититься! Раньше мы сами писали бэкдоор и прочие другие атаки! поэтому нам не страшны обычные хакеры! Мы поможем избавится от всех ошибок=)</center>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aa8a/MrGQ_6vYbzU.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aa97/DP_K5k-E5fs.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aa68/eHm91FXnVg0.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aa78/nhtokwdbAcU.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aa71/ZepVTKMvrpU.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1ab6e/Oo_87yT_iyA.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://www.dropbox.com/s/melegk78xxezjtb/мои%20проекты.rar?dl=0">Скачать программы</a></br><br></center>
+<center><a class="g-button" href="http://external.comss.ru/url.php?url=http://dl4.comss.ru/download/COMSS.Advisor.setup_3.0.2465.0.exe">Скачать COMSS Advisor</a></br><br></center>
+<center><a class="g-button" href="http://www.nanoav.ru/install/free/nanoav.free.setup.exe">Скачать NANO</a></br><br></center>
+<center><a class="g-button" href="http://grizzly-pro.ru/#download">Скачать Grizzly PRO</a></br><br></center>
+<center><a class="g-button" href="http://www.ammyy.com/ru/downloads.html">AMMY Admin удаленная помощь!</a></br><br></center>
+<center><a class="g-button" href="http://yopmail.com/">Почта временная</a></br><br></center>
+<center><a class="g-button" href="http://helloworld.ru/">Программирование HELLO WORLD!</a></br><br></center>
+<center><a class="g-button" href="http://regionet.96host.ru/regionet/">Социальная сеть</a></br><br></center>
+<center><a class="g-button" href="http://regionet-ltd-company.96host.ru/development/">Компания по отделу IT By Regionet ООО "Интернет компания"</a></br><br></center>
+<center><a class="g-button" href="http://regionet.96sn.ru/">Наш Форум для общения</a></br><br></center>
+<center>http://regionet.lisx.ru/cgi-sys/suspendedpage.cgi сайт который уже не работает но есть снизу реклама кликайте)</center>
+<center>гибкость безопасности, хорошая помощь, поддержка команды, а также здесь все у нас отлично! сайт создан для людей, которые нуждаются в помощи, а ещё хотят быть лучше среди зла! то мы изменим и вас и ваш мир!</center>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1ab32/GwuUJsZylXM.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1ab5e/n5EqkssbapU.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1ab65/S-BGoc5tobk.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aab4/XaYeg-zzvYo.jpg"</center></a><br></br>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aac9/AQcVXD_wC6c.jpg"</center></a><br></br>
+
+<a><center><img src="https://pp.vk.me/c638322/v638322405/3df4/EBwpAD8Szl0.jpg"</center></a><br></br>
+<center><a class="g-button" href="https://vk.com/freecyberspace">Книга Молчанов купить</a></br><br></center>
+<center><a class="g-button" href="http://ad-social.org/?ref=5832e4ba4873a">Раскрутка в соц сетях от Regionet!</a></br><br></center>
+<center><a href="https://goo.gl/AUNcI2" title="Кажется, вы хотите заработать?" target="_blank"><img src="https://piarim.biz/shab/office/images/banners/banner160x470.png" alt="Кажется, вы хотите заработать?" width="160" height="470" border="0"></a></center>
+<a><center><img src="https://pp.vk.me/c837224/v837224677/1aafa/1QiyAw40FO8.jpg"</center></a><br></br>
+<center><a class="g-button" href="http://regionet.16mb.com/chat-avatar">Чат с персонажами</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/avos">Avos</a></br><br></center>
+<center><a class="g-button" href="http://mixnet.16mb.com/">Социальная сеть</a></br><br></center>
+<center><a class="g-button" href="http://regionet.niksma.ml/">Форум для помощи от Regionet</a></br><br></center>
+<center><a class="g-button" href="http://kidaloinfo.96sn.ru/">Список кидал юзеринфо</a></br><br></center>
+<center><a class="g-button" href="http://regionet20.16mb.com/">Сайт для ксс сервера v34</a></br><br></center>
+<center><a class="g-button" href="http://regionetsoftproduction.niksma.tk/">Форум по заработку и прочее</a></br><br></center>
+<center><a class="g-button" href="http://dota2.7wk.ru/">Форум для доты 2 и варкрафт=)</a></br><br></center>
+<center><a class="g-button" href="http://convertonlinefree.com/PDFToWORDRU.aspx#">Онлайн конвертер в PDF Word</a></br><br></center>
+<center><a class="g-button" href="http://pchelptoo.jimdo.com/">Помощь в компьютерной сфере для чайников</a></br><br></center>
+<center><a class="g-button" href="http://regionet.niksma.ml/viewtopic.php?id=2#p2">Форум уроки программирования и хакерства</a></br><br></center>
+<center><a class="g-button" href="http://regionetzarabotok.7wk.ru/">Форум для работы и заработка у регионета</a></br><br></center>
+<center><a class="g-button" href="http://student-help1.jimdo.com/">Сайт для студентов в помощи шпаргалки форум</a></br><br></center>
+<center><a class="g-button" href="http://regionet-premium.jimdo.com/">Продажа софта мой стаж и мои достижения в наградах программирования!</a></br><br></center>
+<center><a class="g-button" href="http://regionetandroid.jimdo.com/">Мобильный сайт и для планшета софт на андроид!</a></br><br></center>
+<center><a class="g-button" href="http://murclub.16mb.com/">Мур клуб сайт</a></br><br></center>
+<center><a class="g-button" href="http://www.comss.ru/list.php?c=backup">Резервное копирование</a></br><br></center>
+<center><a class="g-button" href="http://www.comss.ru/">Сайт comss.ru</a></br><br></center>
+<center><a class="g-button" href="http://vk.com/regionetdev">Сайт по софту</a></br><br></center>
+<center><a class="g-button" href="http://regionetsoft.niksma.ga/viewtopic.php?id=2#p2">Программы которые создаю</a></br><br></center>
+<center><a class="g-button" href="http://regionetsoft.niksma.ga/viewtopic.php?id=5#p5">Торговый робот</a></br><br></center>
+<center><a class="g-button" href="http://robot-app.umi.ru/adminzone">Панель робота</a></br><br></center>
+<center><a class="g-button" href="http://open-server.ru/download/">Сделать сервер как у регионета</a></br><br></center>
+<center><a class="g-button" href="http://webisida.com">Заработать на вебсидиа</a></br><br></center>
+<center><a class="g-button" href="http://www.comss.ru/page.php?id=2110">Виртуальная машина</a></br><br></center>
+<center><a class="g-button" href="http://bariksh.ru/blog/49.html">VPN сервер</a></br><br></center>
+<center><a class="g-button" href="http://www.comss.ru/page.php?id=901">Виртуалбокс</a></br><br></center>
+<center><a class="g-button" href="https://autodengi.com">Автоденьги</a></br><br></center>
+<center><a class="g-button" href="http://regionetsoft.niksma.ga/viewtopic.php?id=4#p4">Софт для стима</a></br><br></center>
+<center><a class="g-button" href="http://murg3dx.16mb.com">Софт для чата мур клуб By Regionet</a></br><br></center>
+<center><a class="g-button" href="http://regionet.bombnet.ru">Готовые работы половина сайта рабочее=)</a></br><br></center>
+<center><a class="g-button" href="http://regionet.bombnet.ru/vkbot/">Вк боты 2 страницы + софт 2.2 версия.</a></br><br></center>
+<center><a class="g-button" href="http://vk.com/vkregionet">Скрипты, программы для вк, баги группа от регионет.</a></br><br></center>
+<center><a class="g-button" href="http://vkmonytool.890m.com">Софт для вк и сборка соц сети платная.</a></br><br></center>
+<center><a class="g-button" href="http://regionet.niksma.ml/viewtopic.php?id=1#p1">Взлом лицензиии нод32 и касперский By Regionet.</a></br><br></center>
+<center><a class="g-button" href="http://help.lioo.ru/users/285">Справочная служба серверов и хостингов</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/checker.html">Чекер и брут для взлома вай-фай!</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/9im/">Хостинг лучший</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/myru/">Лучший хостинг в России</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/lioo/">Платный и бесплатно 15 дней суперхост</a></br><br></center>
+<center><a class="g-button" href="http://www.fakenamegenerator.com">Фейк откуда появляются из вк</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/internetfree.html">Бесплатный интернет + провайдер</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/myll/">Бесплатная почта сервис</a></br><br></center>
+<center><a class="g-button" href="http://www.ammyy.com/ru/">Компьютерная помощь</a></br><br></center>
+<center><a class="g-button" href="http://owngame.ru/users/33">Игровой портал</a></br><br></center>
+<center><a class="g-button" href="http://mozg-bot.16mb.com/">Бот для социальных сетей разветление</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/lisx/">Хостинг Лисх</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/100ms/">Хостинг 100ms</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/vk.html">Vk tools 1.3</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/n196/">n196</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/7wk/">Создать форум бесплатно у регионет сайт форум</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/100sm/">Хостинг + софт сервера</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/7gin/">Хостинг седьмой джин</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/7jn/">Хостинг бесплатно от волшебника джина</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/niksma/">Народный хостинг + софт + форум бесплатно от регионет</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/ofsoo/">Бесплатный хостинг и платный</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/talr/">Сайт со всякой шнягой + телек радио и тд.</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/vsvete/">Святой хостинг бесплатно для избранных и сервер</a></br><br></center>
+<center><a class="g-button" href="http://vkmix.96host.ru/">Главная соц сети сделан на хостинге n196 по заказу за 1100 р</a></br><br></center>
+<center><a class="g-button" href="http://vkmix.96host.ru/blab/">Чат и техподдержка</a></br><br></center>
+<center><a class="g-button" href="http://vkmix.96host.ru/oxwall/">Социальная сеть на английском</a></br><br></center>
+<center><a class="g-button" href="http://vkmix.890m.com/">Социальная сеть VKmix регистрация пока что Free</a></br><br></center>
+<center><a class="g-button" href="http://vkmix.96host.ru/wsp/">Игра пазлы версия 1.0</a></br><br></center>
+<center><a class="g-button" href="http://vkmix.96host.ru/mc/">Мультиплеер Checkers</a></br><br></center>
+<center><a class="g-button" href="http://vkmix.96host.ru/podcast/">Подкаст сервер</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/bb777.html">bb777 hosting</a></br><br></center>
+<center><a class="g-button" href="http://777.0pk.ru">Аура позитива</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/hostifree/">Бесплатный хостинг 100</a></br><br></center>
+<center><a class="g-button" href="http://semina.rolka.su">форум от Niksma старый</a></br><br></center>
+<center><a class="g-button" href="http://bezdna.96host.ru">Чат для анимешников общение</a></br><br></center>
+<center><a class="g-button" href="http://regionet-item-free.96host.ru">Бесплатные вещи!</a></br><br></center>
+<center><a class="g-button" href="http://regionet-item-free.96host.ru/vxgb/add_message.php">Заявка бесплатных вещей</a></br><br></center>
+<center><a class="g-button" href="http://regionet.16mb.com/avchat.html">AV world chat FREE</a></br><br></center>
+<center><a class="g-button" href="http://avatar-chat.net/">Чат с персонажами .Net</a></br><br></center>
+<center><a class="g-button" href="http://hosting.talr.ru/">Хостинг Talr за 60 рублей</a></br><br></center>
+<center><a class="g-button" href="http://www.regionetbotchat.96host.ru/">Новый сайт для ботов + чат</a></br><br></center>
+<center><a class="g-button" href="http://wifibox.96host.ru/?ckattempt=1">WifiBox Free 1.2</a></br><br></center>
+<center><a class="g-button" href="http://internet-clicks.ru/money-for-advertising.html">Заработок в интернете от Regionet</a></br><br></center>
+<center><a class="g-button" href="http://www.regionet-programmist.novhost.cf">Обучение программированию от Regionet</a></br><br></center>
+<center><a class="g-button" href="https://geekbrains.ru/users/379551">Regionet обучение программировавнию онлайн курс</a></br><br></center>
+<center><a class="g-button" href="http://ska4ay.com/-LuD">Софт от Regionet для хакера и программиста на php и delphi скачать</a></br><br></center>
+<center><a class="g-button" href="https://installpack.ru">Софт скачать</a></br><br></center>
+<center><a class="g-button" href="http://www.360totalsecurity.com">Бесплатный антивирус 360 + оптимизация Windows 7-8-10.</a></br><br></center>
+<center><a class="g-button" href="https://yandex.ru">Яндекс</a></br><br></center>
+<center><a class="g-button" href="http://www.opera.com/ru">Браузер Opera</a></br><br></center>
+<center><a class="g-button" href="http://www.besplatnyeprogrammy.ru">Бесплатные программы</a></br><br></center>
+<center><a class="g-button" href="http://softobase.com/ru/">Базовые программы и игры</a></br><br></center>
+<center><a class="g-button" href="http://biblprog.org.ua/ru/">Библпрограммы</a></br><br></center>
+<center><a class="g-button" href="http://www.shallimar.novhost.cf/?ckattempt=1">SHALLIMAR</a></br><br></center>
+<center><a class="g-button" href="http://www.regionet-zarabotok.96host.ru">Заработать сайт регионета</a></br><br></center>
+<center><a class="g-button" href="http://zarabotok-forum.ru">Заработок у новичков</a></br><br></center>
+<center><a class="g-button" href="http://www.regionet-steam.novhost.cf">Стим игры и сеты бесплатно</a></br><br></center>
+<center><a class="g-button" href="http://blocklist.7wk.ru">Бан и список наказания</a></br><br></center>
+<center><a class="g-button" href="http://regionetfree.plazti.ru/viewtopic.php?id=2#p2">Разбан платная услуга</a></br><br></center>
+<center><a class="g-button" href="http://regionetfree.plazti.ru/viewtopic.php?id=3">Бесплатная почта, хостинг, форум, профессиональный продукт хостинга 15 дней!</a></br><br></center>
+<center><a class="g-button" href="http://dota2csgo.7wk.ru/viewtopic.php?id=1#p1">&#1044;&#1086;&#1090;&#1072; 2 &#1080; &#1082;&#1089; &#1075;&#1086; &#1089;&#1086;&#1092;&#1090; &#1087;&#1072;&#1082; By Regionet</a></br><br></center>
+<center><a class="g-button" href="http://regionetfree.plazti.ru">Форум от регионет бесплатный!</a></br><br></center>
+<center><a class="g-button" href="http://kidaloinfo.96sn.ru">Список кидал мошенников в интернете от Regionet</a></br><br></center>
+<center><a class="g-button" href="http://www.regionetminecraft.96host.ru">Для майнкрафта 1.8.9 от Regionet + server и лаунчер</a></br><br></center>
+<center><a class="g-button" href="http://39077.noc.su">Хостинг от Regionet</a></br><br></center>
+<center><a class="g-button" href="http://www.rgct.96host.ru">Сайт клана RGcT</a></br><br></center>
+<center><a class="g-button" href="http://rgct.96sn.ru">Форум клана RGcT</a></br><br></center>
+<center><a class="g-button" href="http://www.antikeys.96host.ru">Ключи и кряк активатор для виндус</a></br><br></center>
+<center><a href="http://nick-name.ru/nickname/id1249416/"><img src="http://nick-name.ru/img.php?id=1249416&sert=1" alt="Сертификат на никнейм Regionet, зарегистрирован на Regionet.Aspx.Net" border="0" /></a><br /><a href="http://nick-name.ru">База никнеймов</a></center>
+<center><a href="https://autodengi.com/pr/197851" target="_blank"><img src="https://autodengi.com/faners/ru/240.gif" border="0" alt="" title=""></a></center>
+<center><a href="http://2x2cms.ru/ad/3670" target="_blank"><img src="http://2x2cms.ru/faners/240-1.gif" border="0" alt="выбор cms для интернет магазина" title="выбор cms для интернет магазина"></a></center>
+</div>
+	</div>
+
+<!-- Модальное -->
+        <a name="#x" class="wincase" id="feedback"></a>
+        <div class="modal">
+		<div border="0" scrolling="no" width="800px" height="526px">
+<div width="800px">
+					<p align="justify">Размещение вашего сайта на наших серверах, которые обеспечены доступностью из мировой сети Интернет 24часа в сутки, 7 дней в неделю, а также его бесперебойную работу - это лучший выбор из доступного бесплатного хостинга.</p>
+					<p align="justify">Немногие хостинги в России способны предложить услуги западного качества. Мы не только используем современные решения, но и обладаем перспективными разработками. Наша инфраструктура постоянно развивается и сочетает в себе новейшие аппаратные и программные решения. Мы готовы предложить новейшие технологии защиты от различных видов атак.</p>
+					<p align="justify">Даже "новички" легко создадут свой первый сайт, используя визуальный редактор и конструкторы сайтов. Профессионалы смогут воспользоваться доступом к коду страниц, шаблонизатором, мощью инструментов панели управления, функционалом PHP и т.п.</p>
+					<p align="justify">В вашем распоряжении мощная и легкая в использовании профессиональная Панель управления, предназначенная для контроля за вашими сайтами. В неё интегрированы сотни потрясающих функций: Электронная почта, FTP, Конструктор сайтов, Управление базами MySQL, 50 видов установочных скриптов для ваших сайтов, и многое, многое другое…</p>
+</div>
+		</div>
+
+        <a class="close" title="Закрыть" href="" onclick="document.location.reload()"></a>
+        </div>
+
+   <script src="http://bombnet.ru/assets/web/assets/jquery/jquery.min.js" tppabs="http://bombnet.ru/assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="http://bombnet.ru/assets/bootstrap/js/bootstrap.min.js" tppabs="http://bombnet.ru/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="http://bombnet.ru/assets/smooth-scroll/SmoothScroll.js" tppabs="http://bombnet.ru/assets/smooth-scroll/SmoothScroll.js"></script>
+  <script src="http://bombnet.ru/assets/mobirise/js/script.js" tppabs="http://bombnet.ru/assets/mobirise/js/script.js"></script>
+
+
+</body>
+</html>

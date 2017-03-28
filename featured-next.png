@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru-RU">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Персональный хостинг N196.ru</title>
+<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+</head>
+
+<body>
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2398363", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2398363;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<div id="container"><!-- meheame --> <div class="clearfix">
+	<div class="menu-primary-container">
+		<ul class="menus menu-primary">
+			<li id="menu-item-1"><a href="../index.html">Главная</a></li>
+			
+			<li id="menu-item-1"><a href="http://96host.ru/">Бесплатный хостинг </a></li>
+			<li id="menu-item-1"><a href="http://96sn.ru/" style="color: #ff3300;" target="_blank"><b>Сервис форумов</b></a></li>
+		</ul>
+	</div>
+</div>
+
+<div id="header">
+	<div class="logo">
+		<a href="http://n196.ru/personal/index.php" title="N196.ru" ><img src="images/logo.png" alt="N196.ru" /></a>
+	</div>
+	<div class="header-right">
+		<img src="images/trusted.png"> 
+	</div>
+	<div style="clear:both;"></div>
+</div>
+
+<div class="clearfix">
+	<div class="menu-secondary-container">
+		<ul class="menus menu-secondary">
+			<li id="menu-item-2"><a href="../personal/index.php">Home</a></li>
+			<li id="menu-item-2"><a href="http://hosting.n196.ru/order.php" target="_blank">Регистрация</a></li>
+			<li id="menu-item-2"><a href="http://hosting.n196.ru/user.php" target="_blank">Управление</a></li>
+			<span style="float:right;"><li id="menu-item-2"><a name="personalhosting" style="color: #ff3300;" class="act"><b>Персональный хостинг</b></a></li></span>
+		</ul>
+<div style="clear:both;"></div>
+	</div>
+</div> <!-- #meheame -->
+<div id="main"><!-- slider -->	
+﻿<div class="fp-slider clearfix">
+	<div class="fp-slides-container clearfix">
+<img src="images/slider.jpg" width="100%">
+	</div>
+</div><!-- #slider -->
+
+
+	<div id="content">
+		<div id="page">
+﻿<span style="font: bold italic 130% serif;color:#dddddd;text-decoration: underline;">Персональный хостинг N196</span><br /><br />
+<div id="setkatarifa" class="setkatarifa" width="550px">
+<p align="center"><img src="images/base.jpg" width="100%"></p>
+<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;Персональный хостинг N196 это другое подразделение компании, специализация в которой только качественные услуги хостинга.<br />&nbsp;&nbsp;&nbsp;Только у нас самое наилучшее сочетание цена/качество/сервис среди всех доступных хостингов.<br />
+&nbsp;&nbsp;&nbsp;Только у нас: Квалифицированный штат IT специалистов. Собственые програмные разработки. Круглосуточная техподдержка.<br />
+&nbsp;&nbsp;&nbsp; Чтобы у вас не оставалось сомнения в качестве наших услуг мы дает бесплатный тестовый период на 15 дней.<br />
+&nbsp;&nbsp;&nbsp;Наше оборудование - это только фирменные сервера с высокоскоростным доступом - 100 Мбит/с на каждый сервер.</p>
+<p style="text-align: justify;color:red;">Техподдержка персонального хостинга не дает консультаций и не оказывает поддержку по бесплатному хостингу!</p><br /></div><br /><center><a href="http://hosting.n196.ru/order.php"><button class="butregs" style="width:400px;">Регистрация</button></a></center>		</div> <!-- #page -->
+	</div><!-- #content -->
+
+<!-- sidebar --> ﻿<div id="sidebar-primary">
+	<div class="widget-container">
+<center><h2 class="widgettitle">ТАРИФЫ и УСЛУГИ</h2></center>
+<ul class="menus menu-third">
+	<li><a href="standartnye-tarify.php">Тарифы хостинга СТАНДАРТ</a></li>
+	<li><a href="bezlimitnyj-xosting.php">Тарифы хостинга БЕЗЛИМИТ</a></li>
+	<li><a href="xosting-vip.php">Тарифы хостинга VIP</a></li>
+	<li><a href="domains.php">Регистрация доменов</a></li>
+	<li><a href="virtual-private-server.php">Виртуальные VPS</a></li>
+	<li><a href="vds-servera.php">VDS сервера</a></li>
+	<li><a href="arenda-serverov.php">Аренда выделенных серверов</a></li>
+	<li>&nbsp;</li>
+</ul>
+
+
+
+	</div>
+</div> <!-- #sidebar -->
+
+<div style="clear:both;"></div></div> <!-- main -->
+
+<div id="footer"><div id="copyrights">&copy; 2013-2014  <a href="http://n196.ru/">N196.ru</a><span style="float:left;margin-left:20px;"><!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=2398363">
+<img src="//top-fwz1.mail.ru/counter?id=2398363;t=364;l=1" 
+style="border:0;" height="18" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo --></span><span style="float:right;margin: -8px 20px 0 0;"> </span></div></div>
+
+</div> <!-- container -->
+
+<script type='text/javascript'>
+$(document).ready(function(){
+/*Start DocumentReady*/
+ var url=document.location.href;
+ $.each($("ul.menus a"),function(e){
+		if(url==this.href){$(this).addClass('act');};
+	});
+/*End DocumentReady*/
+});
+</script>
+</body>
+</html>
